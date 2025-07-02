@@ -1,3 +1,3 @@
 <!-- Pull docker file from Docker Hub -->
 
-Docker pull nimatshering/labexercise1
+Docker pull nimatshering/socketchat
